@@ -1,0 +1,12 @@
+#GENERAL
+appAndroidVersion=6.0.0
+appIOSVersion=6.0.0
+appIOSURL=http://itunes.apple.com/app/kohls/id472014516?mt=8
+headerApikey=rhU37ZEQOG9TcsnqWozHjL6dRahWICmh
+configFileVersion=2
+farhoodm@hotmail.com #send me an e-mail to this address
+loggingMode=0
+storeRadius=25
+zipCode=53051
+weeklyAdURL=http://kohls.shoplocal.com/Kohls/Entry/LandingContent
+secret=nVBjwya0aULi0Cek
